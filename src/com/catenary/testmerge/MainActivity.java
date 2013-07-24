@@ -8,6 +8,7 @@ import android.view.Menu;
  * working on branch_1, created with rebase option
  * 
  * working on branch_2, created with rebase option
+ * -- aaand, branch 2 is doing stuff, too, as the ranch burns down on branch_1
  * @author dan
  *
  */
