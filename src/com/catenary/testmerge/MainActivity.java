@@ -9,6 +9,8 @@ import android.view.Menu;
  * 
  * meanwhile, back at the ranch, new activity on branch_1
  * working on branch_2, merge option
+ * 
+ * removed all branches, now committing branch_christina
  * @author dan
  *
  */
