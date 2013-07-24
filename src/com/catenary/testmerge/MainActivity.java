@@ -4,6 +4,11 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
+/**
+ * working on branch_1, created with rebase option
+ * @author dan
+ *
+ */
 public class MainActivity extends Activity {
 
 	@Override
