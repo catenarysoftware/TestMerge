@@ -6,6 +6,8 @@ import android.view.Menu;
 
 /**
  * working on branch_1, created with rebase option
+ * 
+ * meanwhile, back at the ranch, new activity on branch_1
  * @author dan
  *
  */
