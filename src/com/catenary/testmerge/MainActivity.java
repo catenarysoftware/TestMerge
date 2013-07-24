@@ -14,6 +14,8 @@ import android.view.Menu;
  * 
  * a distinct change to _christina
  * and a distinct change to _dan
+ * 
+ * all seems to have merged, master, christina and dan, new change on dan
  * @author dan
  *
  */
